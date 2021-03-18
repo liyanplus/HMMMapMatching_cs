@@ -1,0 +1,108 @@
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\HMMMapMatching.exe.config
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\HMMMapMatching.exe
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\HMMMapMatching.pdb
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\CsvHelper.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\GeoAPI.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\Itinero.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\Itinero.Geo.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\Itinero.IO.Osm.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\Itinero.IO.Shape.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.IO.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.IO.GeoTools.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.IO.MsSqlSpatial.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.IO.PostGis.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.IO.ShapeFile.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\OsmSharp.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\OsmSharp.Geo.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\PowerCollections.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\protobuf-net.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\Reminiscence.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\CsvHelper.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\GeoAPI.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.IO.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.IO.GeoTools.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.IO.MsSqlSpatial.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.IO.PostGis.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.IO.ShapeFile.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\NetTopologySuite.IO.ShapeFile.Extended.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\PowerCollections.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\protobuf-net.pdb
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Release\protobuf-net.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\obj\Release\HMMMapMatching.csproj.CoreCompileInputs.cache
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\obj\Release\HMMMapMatching.exe
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\obj\Release\HMMMapMatching.pdb
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\HMMMapMatching.exe.config
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\HMMMapMatching.exe
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\HMMMapMatching.pdb
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\CsvHelper.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\GeoAPI.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\Itinero.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\Itinero.Geo.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\Itinero.IO.Osm.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\Itinero.IO.Shape.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.GeoTools.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.MsSqlSpatial.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.PostGis.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.ShapeFile.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\OsmSharp.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\OsmSharp.Geo.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\PowerCollections.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\protobuf-net.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\Reminiscence.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\CsvHelper.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\GeoAPI.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.GeoTools.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.MsSqlSpatial.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.PostGis.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.ShapeFile.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.ShapeFile.Extended.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\PowerCollections.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\protobuf-net.pdb
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Release\protobuf-net.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\obj\Release\HMMMapMatching.csprojResolveAssemblyReference.cache
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\obj\Release\HMMMapMatching.exe
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\obj\Release\HMMMapMatching.pdb
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\HMMMapMatching.exe.config
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\obj\Release\HMMMapMatching.exe
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\obj\Release\HMMMapMatching.pdb
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\HMMMapMatching.exe
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\HMMMapMatching.pdb
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\CsvHelper.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\GeoAPI.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\Itinero.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\Itinero.Geo.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\Itinero.IO.Osm.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\Itinero.IO.Shape.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.GeoTools.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.MsSqlSpatial.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.PostGis.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.ShapeFile.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\OsmSharp.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\OsmSharp.Geo.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\PowerCollections.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\protobuf-net.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\Reminiscence.dll
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\CsvHelper.xml
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\GeoAPI.xml
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.xml
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.xml
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.GeoTools.xml
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.MsSqlSpatial.xml
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.PostGis.xml
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.ShapeFile.xml
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\NetTopologySuite.IO.ShapeFile.Extended.xml
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\PowerCollections.xml
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\protobuf-net.pdb
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\bin\Release\protobuf-net.xml
+C:\Google Drive\Documents\learning\umn\Research\Current\PathRecommendation\GeneratePathCost\HMMMapMatching\obj\Release\HMMMapMatching.csprojResolveAssemblyReference.cache

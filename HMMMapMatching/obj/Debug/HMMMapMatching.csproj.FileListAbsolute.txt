@@ -1,0 +1,190 @@
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.exe.config
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.exe
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.pdb
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.csprojResolveAssemblyReference.cache
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.exe
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.pdb
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\GeoAPI.dll
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.dll
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\OsmSharp.dll
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\OsmSharp.Geo.dll
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\PowerCollections.dll
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.dll
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\GeoAPI.xml
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.xml
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\PowerCollections.xml
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.pdb
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.xml
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.dll
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.IO.Osm.dll
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\Reminiscence.dll
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\CsvHelper.dll
+C:\Users\lixx4266\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\CsvHelper.xml
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.exe.config
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.exe
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.pdb
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\CsvHelper.dll
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\GeoAPI.dll
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.dll
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.IO.Osm.dll
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.dll
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\OsmSharp.dll
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\OsmSharp.Geo.dll
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\PowerCollections.dll
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.dll
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\Reminiscence.dll
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\CsvHelper.xml
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\GeoAPI.xml
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.xml
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\PowerCollections.xml
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.pdb
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.xml
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.csprojResolveAssemblyReference.cache
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.csproj.CoreCompileInputs.cache
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.exe
+C:\Users\liyan\OneDrive\Documents\learning\umn\Research\2017\MapMatching\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.pdb
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.exe.config
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.exe
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.pdb
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.exe
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.pdb
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\CsvHelper.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\GeoAPI.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.IO.Osm.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\OsmSharp.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\OsmSharp.Geo.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\PowerCollections.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\Reminiscence.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\CsvHelper.xml
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\GeoAPI.xml
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.xml
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\PowerCollections.xml
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.pdb
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.xml
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.csprojResolveAssemblyReference.cache
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.Geo.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.IO.Shape.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.PostGis.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.xml
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.xml
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.PostGis.xml
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+C:\Users\lixx4266\Google Drive\Research\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.exe.config
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.exe
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.pdb
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.exe
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.pdb
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\CsvHelper.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\GeoAPI.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.Geo.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.IO.Osm.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.IO.Shape.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.PostGis.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\OsmSharp.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\OsmSharp.Geo.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\PowerCollections.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\Reminiscence.dll
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\CsvHelper.xml
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\GeoAPI.xml
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.xml
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.xml
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.xml
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.PostGis.xml
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\PowerCollections.xml
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.pdb
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.xml
+C:\Google Drive\Research\MapMatching\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.csprojResolveAssemblyReference.cache
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.exe.config
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.exe
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\HMMMapMatching.pdb
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\CsvHelper.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\GeoAPI.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.Geo.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.IO.Osm.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\Itinero.IO.Shape.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.PostGis.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\OsmSharp.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\OsmSharp.Geo.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\PowerCollections.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\Reminiscence.dll
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\CsvHelper.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\GeoAPI.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.PostGis.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\PowerCollections.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.pdb
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\bin\Debug\protobuf-net.xml
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.csproj.CoreCompileInputs.cache
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.exe
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.pdb
+C:\Users\liyan\Downloads\MapMatchingWS\HMMMapMatching\HMMMapMatching\obj\Debug\HMMMapMatching.csprojResolveAssemblyReference.cache
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\HMMMapMatching.exe.config
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\HMMMapMatching.exe
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\HMMMapMatching.pdb
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\CsvHelper.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\GeoAPI.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\Itinero.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\Itinero.Geo.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\Itinero.IO.Osm.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\Itinero.IO.Shape.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.IO.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.IO.GeoTools.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.IO.PostGis.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\OsmSharp.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\OsmSharp.Geo.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\PowerCollections.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\protobuf-net.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\Reminiscence.dll
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\CsvHelper.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\GeoAPI.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.IO.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.IO.GeoTools.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.IO.MsSqlSpatial.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.IO.PostGis.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\NetTopologySuite.IO.ShapeFile.Extended.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\PowerCollections.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\protobuf-net.pdb
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\bin\Debug\protobuf-net.xml
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\obj\Debug\HMMMapMatching.exe
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\obj\Debug\HMMMapMatching.pdb
+C:\GDrive23\Research\MapMatching\GeneratePathCost\HMMMapMatching\obj\Debug\HMMMapMatching.csprojResolveAssemblyReference.cache

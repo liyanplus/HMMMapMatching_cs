@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{DBADABD6-99D8-42D9-8E8E-256EE6A9F614}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HMMMapMatching/YMapMatcher.cs">
+    <Files>
+      <File FileName="HMMMapMatching/YGraph.cs" Line="101" Column="22" />
+      <File FileName="HMMMapMatching/YMapMatcher.cs" Line="292" Column="17" />
+      <File FileName="HMMMapMatching/Program.cs" Line="28" Column="37" />
+      <File FileName="HMMMapMatching/RoadSegmentCost.cs" Line="16" Column="4" />
+      <File FileName="HMMMapMatching/YPointBase.cs" Line="49" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HMMMapMatching PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
